@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on - [Anime Recommendation system](https://github.com/srijansingh53/aniReco), Personal Blog Using Django
 - 🌱 I’m currently learning - Recommendation systems, Time Series, Compleating assignments of Deep learning specialization(Coursera)
 - 🤔 I’m looking for help with - 6 month Internship :)
+- 👯 I’m looking to collaborate with - Awesome AI applications
 - 💬 Ask me about - AI
 
 ### Languages and tools
@@ -28,3 +29,16 @@
   <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[facebook]: https://www.facebook.com/profile.php?id=100010998130547
+[youtube]: https://www.youtube.com/channel/UCMQOUMP8U9_FZOWrw26IW5Q?view_as=subscriber
+[linkedin]: https://www.linkedin.com/in/boltz-divyanshu/
