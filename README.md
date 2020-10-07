@@ -41,3 +41,9 @@
 [facebook]: https://www.facebook.com/profile.php?id=100010998130547
 [youtube]: https://www.youtube.com/channel/UCMQOUMP8U9_FZOWrw26IW5Q?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/boltz-divyanshu/
+
+### Lists of some of my repository which worth to take a look.
+
+- [Real Time Twitter sentiment analysis and plotting](https://github.com/Boltuzamaki/Real-Time-Twitter-sentiment-analysis-and-plotting)
+- [IP Academic Project on Segmentaion of Sattellite image using NDVI on Tkinter](https://github.com/Boltuzamaki/IP-Academic-Project-on-Segmentaion-of-Sattellite-image-using-NDVI-on-Tkinter)
+- [Automatic PCI index Calculation Using Computer Vision](https://github.com/Boltuzamaki/NC_SVCE_MK199_CliffHangers-1)
