@@ -47,3 +47,8 @@
 - [Real Time Twitter sentiment analysis and plotting](https://github.com/Boltuzamaki/Real-Time-Twitter-sentiment-analysis-and-plotting)
 - [IP Academic Project on Segmentaion of Sattellite image using NDVI on Tkinter](https://github.com/Boltuzamaki/IP-Academic-Project-on-Segmentaion-of-Sattellite-image-using-NDVI-on-Tkinter)
 - [Automatic PCI index Calculation Using Computer Vision](https://github.com/Boltuzamaki/NC_SVCE_MK199_CliffHangers-1)
+- [News Classifier and Topic Modelling Deployed on Heroku](https://github.com/Boltuzamaki/Machine-Learning-Academic-Project)
+- [Mini AI Projects](https://github.com/Boltuzamaki/Mini-AI-Projects)
+- [Easy CV](https://github.com/Boltuzamaki/Easy-CV)
+- [Deep Dream Tkinter](https://github.com/Boltuzamaki/Deep-Dream-Tkinter-App)
+
