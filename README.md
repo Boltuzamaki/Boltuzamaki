@@ -52,3 +52,4 @@
 - [Easy CV](https://github.com/Boltuzamaki/Easy-CV)
 - [Deep Dream Tkinter](https://github.com/Boltuzamaki/Deep-Dream-Tkinter-App)
 
+![Boltuzamaki github stats](https://github-readme-stats.vercel.app/api?username=boltuzamaki&show_icons=true&theme=dark)
