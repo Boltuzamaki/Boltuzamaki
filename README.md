@@ -56,5 +56,5 @@
 
 ![Boltuzamaki github stats](https://github-readme-stats.vercel.app/api?username=boltuzamaki&show_icons=true&theme=dark)
 
-# Music helps me code 😳
+### Music helps me code 😳
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jfeexgibucbx35vmxmbem2j6oa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
