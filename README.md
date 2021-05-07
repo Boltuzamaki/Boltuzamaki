@@ -2,10 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=boltuzamaki&color=blueviolet&label=Profile+Views)
 
-- 🔭 I’m currently working on - [Anime Recommendation system](https://github.com/srijansingh53/aniReco), Personal Blog Using Django
-- 🌱 I’m currently learning - Recommendation systems, Time Series, Compleating assignments of Deep learning specialization(Coursera)
-- 🤔 I’m looking for help with - 6 month Internship :)
-- 👯 I’m looking to collaborate with - Awesome AI applications
+- 🔭 I’m currently working on -  Personal Blog Using Django, Creating all in one repo for end to end deployment in all AI field
+- 🌱 I’m currently learning - ROS,
+- 🤔 I’m looking for help with - Oppurtunities in Robotics/AI
+- 👯 I’m looking to collaborate with - anyone working with AI API
 - 💬 Ask me about - AI
 
 ### Languages and tools
