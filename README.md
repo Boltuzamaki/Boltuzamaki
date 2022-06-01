@@ -2,10 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=boltuzamaki&color=blueviolet&label=Profile+Views)
 
-- 🔭 I’m currently working on -  Personal Blog Using Django, Creating all in one repo for end to end deployment in all AI field
-- 🌱 I’m currently learning - ROS,
-- 🤔 I’m looking for help with - Oppurtunities in Robotics/AI
-- 👯 I’m looking to collaborate with - anyone working with AI API
+- 🔭 I’m currently working on - Creating RL agents in unity :")
+- 🌱 I’m currently learning - Unity, Blockchain 
+- 🤔 I’m looking for help with - Oppurtunities in AI or robotics 
+- 👯 I’m looking to collaborate with - anyone working with RL agents 
 - 💬 Ask me about - AI
 
 ### Languages and tools
