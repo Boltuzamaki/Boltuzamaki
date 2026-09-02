@@ -209,15 +209,21 @@ Raspberry Pi assistive device for visually impaired users. Built at IISc Bangalo
 
 <br/><br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=Boltuzamaki&hide_border=true&background=0D1117&ring=0EA5E9&fire=6366F1&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution streak"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Boltuzamaki&hide_border=true&background=0D1117&ring=0EA5E9&fire=6366F1&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=Boltuzamaki&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Boltuzamaki&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Commits,Followers,Repositories,PullRequest,Stars,Issues,Experience" alt="GitHub trophies"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boltuzamaki&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6366F1&point=C9D1D9&title_color=0EA5E9&area=true" alt="Contribution activity graph" width="98%"/>
+<!-- Generated into this repo by .github/workflows/snake.yml, so it cannot break like a
+     third-party service can. Theme-aware: dark grid on dark mode, light grid on light mode. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boltuzamaki/Boltuzamaki/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boltuzamaki/Boltuzamaki/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Boltuzamaki/Boltuzamaki/output/github-snake.svg" alt="Contribution snake animation" width="98%"/>
+</picture>
 
 </div>
 
