@@ -62,7 +62,7 @@ extraction at scale, RAG pipelines with real evaluation, and self-hosted speech 
 | <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%230ea5e9&height=18" height="18"/> | **Six tracks** | NumPy 170 · Pandas 160 · Probability 132 · PyTorch 111 · MySQL 100 · Matplotlib 83 |
 | <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%230ea5e9&height=18" height="18"/> | **Progress tracking** | Save code, resume anywhere |
 | <img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=%230ea5e9&height=18" height="18"/> | **In use** | 267 registered · 176 have solved something · 5,833 submissions graded |
-| <img src="https://api.iconify.design/fa6-solid/credit-card.svg?color=%230ea5e9&height=18" height="18"/> | **Earning** | Paid subscriptions live, Dodo Payments as merchant of record |
+| <img src="https://api.iconify.design/fa6-solid/credit-card.svg?color=%230ea5e9&height=18" height="18"/> | **Paying members** | 8 subscriptions to date, 5 active · October the best month yet |
 | <img src="https://api.iconify.design/fa6-solid/hourglass-half.svg?color=%230ea5e9&height=18" height="18"/> | **Coming soon** | TensorFlow |
 
 <a href="https://tensorprep.dev/"><b>Try it free</b> <img src="https://api.iconify.design/fa6-solid/arrow-right.svg?color=%230ea5e9&height=13" height="13"/></a>
@@ -95,13 +95,14 @@ extraction at scale, RAG pipelines with real evaluation, and self-hosted speech 
 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 <br/>
 
 <img src="https://api.iconify.design/fa6-solid/code.svg?color=%236366f1&height=16" height="16"/> &nbsp;**Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,selenium,html,css,js&theme=dark" alt="Git, GitHub, VS Code, Bash, Selenium, HTML, CSS, JavaScript"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,selenium,html,css,js,ts,react,nextjs&theme=dark" alt="Git, GitHub, VS Code, Bash, Selenium, HTML, CSS, JavaScript, TypeScript, React, Next.js"/>
 
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
