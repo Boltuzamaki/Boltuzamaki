@@ -27,7 +27,7 @@
 class Divyanshu:
     role      = "Senior NLP & ML Engineer"
     focus     = ["LLMs", "RAG", "Agentic AI", "Fine-tuning", "NLP", "Computer Vision"]
-    building  = "tensorprep.dev, 282+ ML interview problems with a real Python judge"
+    building  = "tensorprep.dev, 756 ML interview problems with a real Python judge"
     prev      = "Emplay Inc. (2023 to 2026) · TCS · Adverto"
     education = "B.Tech, IIITDM Jabalpur"
     status    = "Building full-time. Open to senior ML / NLP roles."
@@ -57,11 +57,13 @@ extraction at scale, RAG pipelines with real evaluation, and self-hosted speech 
 
 | | | |
 |:--:|:--|:--|
-| <img src="https://api.iconify.design/fa6-solid/puzzle-piece.svg?color=%230ea5e9&height=18" height="18"/> | **282+ problems** | Hand-crafted, interview-style |
+| <img src="https://api.iconify.design/fa6-solid/puzzle-piece.svg?color=%230ea5e9&height=18" height="18"/> | **756 problems** | Hand-crafted, interview-style · 130 free |
 | <img src="https://api.iconify.design/fa6-solid/bolt.svg?color=%230ea5e9&height=18" height="18"/> | **Real execution** | Sandboxed Python judge, live console output |
-| <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%230ea5e9&height=18" height="18"/> | **Libraries** | NumPy · Pandas · PyTorch · Matplotlib |
+| <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%230ea5e9&height=18" height="18"/> | **Six tracks** | NumPy 170 · Pandas 160 · Probability 132 · PyTorch 111 · MySQL 100 · Matplotlib 83 |
 | <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%230ea5e9&height=18" height="18"/> | **Progress tracking** | Save code, resume anywhere |
-| <img src="https://api.iconify.design/fa6-solid/hourglass-half.svg?color=%230ea5e9&height=18" height="18"/> | **Coming soon** | TensorFlow · MySQL |
+| <img src="https://api.iconify.design/fa6-solid/chart-simple.svg?color=%230ea5e9&height=18" height="18"/> | **In use** | 267 registered · 176 have solved something · 5,833 submissions graded |
+| <img src="https://api.iconify.design/fa6-solid/credit-card.svg?color=%230ea5e9&height=18" height="18"/> | **Earning** | Paid subscriptions live, Dodo Payments as merchant of record |
+| <img src="https://api.iconify.design/fa6-solid/hourglass-half.svg?color=%230ea5e9&height=18" height="18"/> | **Coming soon** | TensorFlow |
 
 <a href="https://tensorprep.dev/"><b>Try it free</b> <img src="https://api.iconify.design/fa6-solid/arrow-right.svg?color=%230ea5e9&height=13" height="13"/></a>
 
